@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-07T23:52:36 IST" name="Default suite" finished-at="2023-02-07T23:53:24 IST" duration-ms="47692">
+    <groups>
+    </groups>
+    <test started-at="2023-02-07T23:52:36 IST" name="Default test" finished-at="2023-02-07T23:53:24 IST" duration-ms="47692">
+      <class name="FirstPkg.OrangeHrm">
+        <test-method is-config="true" signature="url()[pri:0, instance:FirstPkg.OrangeHrm@496bc455]" started-at="2023-02-07T23:52:36 IST" name="url" finished-at="2023-02-07T23:52:54 IST" duration-ms="17600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="test1()[pri:0, instance:FirstPkg.OrangeHrm@496bc455]" started-at="2023-02-07T23:52:54 IST" name="test1" finished-at="2023-02-07T23:52:59 IST" duration-ms="5174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:FirstPkg.OrangeHrm@496bc455]" started-at="2023-02-07T23:52:59 IST" name="quit" finished-at="2023-02-07T23:53:21 IST" duration-ms="22099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:FirstPkg.OrangeHrm@496bc455]" started-at="2023-02-07T23:53:21 IST" name="launch" finished-at="2023-02-07T23:53:24 IST" duration-ms="2758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- FirstPkg.OrangeHrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
