@@ -3,14 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="FirstPkg.OrangeHrm">
+      <class name="Thirdpack.chekingingit">
         <methods>
-          <include name="quit"/>
-          <include name="test1"/>
-          <include name="url"/>
           <include name="launch"/>
         </methods>
-      </class> <!-- FirstPkg.OrangeHrm -->
+      </class> <!-- Thirdpack.chekingingit -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

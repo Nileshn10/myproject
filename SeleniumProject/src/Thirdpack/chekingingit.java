@@ -12,6 +12,7 @@ public class chekingingit {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver= new ChromeDriver();
 		driver.get("https://youtube.com");
+		driver.close();
 	}
 
 }
